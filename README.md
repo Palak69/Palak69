@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Palak69
-- 👀 I’m interested in coding
+- 👀 I’m interested in data visualization,Data cleaning,Data processing etc.
 - 🌱 I’m currently learning (Power BI),(PostgreSQL)
 - 📫 How to reach me via email(ppal08450@gmail.com)
 
