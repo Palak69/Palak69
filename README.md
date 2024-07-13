@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Palak69
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on nothing 
+- 🌱 I’m currently learning (Power BI),(PostgreSQL)
 - 📫 How to reach me via email(ppal08450@gmail.com)
 
 <!---
